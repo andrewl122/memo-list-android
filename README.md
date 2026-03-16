@@ -44,7 +44,7 @@ Example:
 
 ## How to Run
 
-1. Clone the repository
+1. Clone the repository git clone https://github.com/andrewl122/memo-list-android.git
 
 2. Open the project in **Android Studio**
 
